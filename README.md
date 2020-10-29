@@ -70,4 +70,4 @@ I appreciate any bug reported or improvement made!
 MIT
 
 
- <i style='text-align: center; color: red;font-size: 13px;'>CopyRight © jozdev & samurai 2020</i> 
+ <i style='text-align: center; color: red;font-size: 13px;'>CopyRight © jozdev 2020</i> 
